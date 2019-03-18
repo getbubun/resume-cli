@@ -1,4 +1,4 @@
-# resume-cli
+# manabdas
 This is my CLI version resume. 
 
 ### Prerequisites

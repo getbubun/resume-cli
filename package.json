@@ -15,5 +15,15 @@
 
   "bin": {
     "manabdas": "./index.js"
-  }
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getbubun/resume-cli.git"
+  },
+
+  "keywords": [
+    "cli",
+    "resume"
+  ]
 }
