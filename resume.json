@@ -1,0 +1,22 @@
+{
+    "Education": [
+        "Passed Highschool",
+        "Failed College",
+        "Electrical Engineer",
+        "Full Stack Dev"
+    ],
+
+    "Past Experiences": [
+        "Backend Ninja at Google",
+        "I was joking ;) "
+    ],
+
+    "Tech Stack": ["JavaScript", "Angular", "nginx", "Redis", "Git"],
+
+    "Projects": [
+        "Visit the below site for projects",
+        "https://github.com/getbubun"
+    ],
+
+    "Contact": ["getbubun@gmail.com"]
+}
